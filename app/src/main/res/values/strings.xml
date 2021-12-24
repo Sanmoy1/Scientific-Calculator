@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="ZeroValue">0</string>
+    <string name="equals">=</string>
+    <string name="fraction">.</string>
+    <string name="addition">+</string>
+    <string name="Bracket_open">(</string>
+    <string name="Value3">3</string>
+    <string name="Value2">2</string>
+    <string name="Value1">1</string>
+    <string name="Substraction">-</string>
+    <string name="Value6">6</string>
+    <string name="Value5">5</string>
+    <string name="Value4">4</string>
+    <string name="Multiplication">*</string>
+    <string name="Value9">9</string>
+    <string name="Value8">8</string>
+    <string name="Value7">7</string>
+    <string name="Division">/</string>
+    <string name="Bracket_close">)</string>
+    <string name="Clear">C</string>
+    <string name="backspace">Backspace</string>
+    <string name="Expression">Enter the no.</string>
+    <string name="sinFunction">sin</string>
+    <string name="cosFunction">cos</string>
+    <string name="tanFunction">tan</string>
+    <string name="sinInverse">sin<sup><small>-1</small></sup></string>
+    <string name="cosInverse">cos<sup><small>-1</small></sup></string>
+    <string name="tanInverse">tan<sup><small>-1</small></sup></string>
+    <string name="naturalLog">ln</string>
+    <string name="logFunction">log</string>
+    <string name="XpowerY">x<sup><small>y</small></sup></string>
+    <string name="nPr"><sub><small>n</small></sub>P<sub><small>r</small></sub></string>
+    <string name="nCr"><sub><small>n</small></sub>C<sub><small>r</small></sub></string>
+    <string name="eText">e</string>
+    <string name="ApowerBdivideC">a<sup><small>b/c</small></sup></string>
+</resources>
